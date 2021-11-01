@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Maulana\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maulana\\.nuget\\packages"
+    ]
+  }
+}

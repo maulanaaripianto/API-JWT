@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Context",
+    "\\API\\Controllers",
+    "\\API\\Models",
+    "\\API\\Repository",
+    "\\API\\Repository\\Interface"
+  ],
+  "SelectedNode": "\\API\\Repository\\Interface\\IEmployeeRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
